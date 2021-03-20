@@ -1,0 +1,6 @@
+This is a version 1 of mine project.
+I want this to go into commit.
+alalalalalala change by me.
+Again now its changed by me.
+Now i'm changing these becz of branching.
+master.
